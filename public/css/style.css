@@ -1,0 +1,9 @@
+.with-errors {
+    color: #F00;
+}
+
+.label-info {
+    background-color: #5bc0de;
+    padding: .2em .6em .3em;
+    border-radius: .25em;
+}
